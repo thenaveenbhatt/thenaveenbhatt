@@ -1,16 +1,46 @@
-## Hi there 👋
+<h1 align="center">👋 Hi there, I'm Naveen Bhatt</h1>
 
-<!--
-**thenaveenbhatt/thenaveenbhatt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+Engineering Scalable Systems | System Design Enthusiast | Future Tech Leader
+💻 Building scalable products • Writing clean, maintainable code • Growing engineering leadership 
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 About Me
+
+- 🔸 **12+ years** building full stack solutions using **.NET Core**, **Angular**, **React**, and **Azure**
+- 🔸 Passionate about **System Design**, **Architecture Patterns**, and **Engineering Leadership**
+- 🔸 Currently focusing on expanding leadership scope towards **Director-level roles** in tech
+- 🔸 Advocate for **clean code**, **solid architecture**, and **continuous learning**
+
+---
+
+### 🚀 What I’m Working On
+- 🏗️ **Daily Problem Solving Series** → Algorithms + System Design in **C#**
+- 📚 Designing **real-world scalable systems**
+- 🎯 Helping engineers grow beyond code → **Think architecture. Think leadership.**
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages & Frameworks**  
+`C#` `JavaScript` `TypeScript` `SQL` `HTML` `CSS`  
+`.NET Core` `Angular` `React`
+
+**Tools & Platforms**  
+`Azure` `Azure DevOps` `Docker` `Kubernetes` `Git` `CI/CD`
+
+---
+
+### 📫 Let’s Connect
+- 💼 [LinkedIn →](https://www.linkedin.com/in/thenaveenbhatt/)
+- 💻 [GitHub →](https://github.com/thenaveenbhatt)
+
+---
+
+<p align="center">
+✨ <b>Let’s build sharp engineering habits together.</b>  
+<b>Clean code → Clear thinking → Confident leadership.</b> ✨
+</p>
