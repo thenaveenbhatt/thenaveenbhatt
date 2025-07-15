@@ -11,7 +11,7 @@ Engineering Scalable Systems | System Design Enthusiast | Future Tech Leader
 
 - 🔸 **12+ years** building full stack solutions using **.NET Core**, **Angular**, **React**, and **Azure**
 - 🔸 Passionate about **System Design**, **Architecture Patterns**, and **Engineering Leadership**
-- 🔸 Currently focusing on expanding leadership scope towards **Director-level roles** in tech
+- 🔸 Currently focusing on expanding leadership scope towards **Software Architect-level roles** in tech
 - 🔸 Advocate for **clean code**, **solid architecture**, and **continuous learning**
 
 ---
